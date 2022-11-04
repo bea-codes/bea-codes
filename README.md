@@ -7,9 +7,11 @@ I am:
 - trying to focus in frontend 
 - in general a very curious person!
 
-![](https://visitor-badge.laobi.icu/badge?page_id=bea-codes.bea-codes)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bea-codes&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bea-codes&theme=tokyonight)
+<br/>
+![](https://visitor-badge.laobi.icu/badge?page_id=bea-codes.bea-codes)
 
 
 
