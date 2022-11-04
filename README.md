@@ -7,12 +7,12 @@ I am:
 - trying to focus in frontend 
 - in general a very curious person!
 
-<!--
+
 ### Here are some technologies I'm a little familiar with:
 <p>
   <img src="assets/html-1.svg" width="50px" height="50px">
 </p>
--->
+
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bea-codes&show_icons=true&theme=tokyonight)
