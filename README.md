@@ -1,6 +1,6 @@
 # Hey there! I'm Bea!👋
 
-**I am**:
+### **I am**:
 - a non-binary person based in **Recife, Brasil!** 
 - graduating in Sistemas para Internet - UNICAP
 - studying web development 💻
