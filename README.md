@@ -15,6 +15,7 @@
   <img src="assets/logo-javascript.svg" width="80px" height="80px">
   <img src="assets/python-5.svg" width="80px" height="80px">
 </div>
+<br/>
 
 
 
