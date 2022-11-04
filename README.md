@@ -1,6 +1,6 @@
 # Hey there! I'm Bea!👋
 
-I am:
+**I am**:
 - a non-binary person based in **Recife, Brasil!** 
 - graduating in Sistemas para Internet - UNICAP
 - studying web development 💻
@@ -10,10 +10,10 @@ I am:
 
 ### Here are some technologies I'm a little familiar with:
 <div>
-  <img src="assets/html-1.svg" width="50px" height="50px">
-  <img src="assets/css-3.svg" width="50px" height="50px">
-  <img src="assets/logo-javascript.svg" width="50px" height="50px">
-  <img src="assets/python-5.svg" width="50px" height="50px">
+  <img src="assets/html-1.svg" width="50px" height="50px" margin="5px>
+  <img src="assets/css-3.svg" width="50px" height="50px" margin="5px>
+  <img src="assets/logo-javascript.svg" width="50px" height="50px" margin="5px>
+  <img src="assets/python-5.svg" width="50px" height="50px" margin="5px>
 </div>
 
 
@@ -26,19 +26,3 @@ I am:
 
 
 
-
-
-<!--
-**bea-codes/bea-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
