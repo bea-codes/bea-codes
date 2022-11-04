@@ -11,6 +11,9 @@ I am:
 ### Here are some technologies I'm a little familiar with:
 <div>
   <img src="assets/html-1.svg" width="50px" height="50px">
+  <img src="assets/css-3.svg" width="50px" height="50px">
+  <img src="assets/logo-javascript.svg" width="50px" height="50px">
+  <img src="assets/python-5.svg" width="50px" height="50px">
 </div>
 
 
