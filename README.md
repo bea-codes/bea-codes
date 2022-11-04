@@ -10,7 +10,7 @@ I am:
 <!--
 ### Here are some technologies I'm a little familiar with:
 <p>
-  <img>
+  <img src="assets/html-1.svg" width="50px" height="50px">
 </p>
 -->
 
