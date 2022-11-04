@@ -7,6 +7,13 @@ I am:
 - trying to focus in frontend 
 - in general a very curious person!
 
+<!--
+### Here are some technologies I'm a little familiar with:
+<p>
+  <img>
+</p>
+-->
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bea-codes&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bea-codes&theme=tokyonight)
