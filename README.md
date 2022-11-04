@@ -9,6 +9,7 @@
 
 
 ### Here are some technologies I'm a little familiar with:
+<br/>
 <div align="center">
   <img src="assets/html-1.svg" width="80px" height="80px" >
   <img src="assets/css-3.svg" width="80px" height="80px" >
