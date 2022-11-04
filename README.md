@@ -1,11 +1,16 @@
 # Hey there! I'm Bea!👋
 
 I am:
-- based in Recife, Brasil!
+- a non-binary person based in **Recife, Brasil!** 
 - graduating in Sistemas para Internet - UNICAP
-- studying web development
-- trying to focus in frontend
+- studying web development 💻
+- trying to focus in frontend 
 - in general a very curious person!
+
+![](https://visitor-badge.laobi.icu/badge?page_id=bea-codes.bea-codes)
+
+
+
 
 
 <!--
