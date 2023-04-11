@@ -11,10 +11,11 @@
 ### Here are some technologies I'm a little familiar with:
 <br/>
 <div align="center">
-  <img src="assets/html-1.svg" width="80px" height="80px" >
-  <img src="assets/css-3.svg" width="80px" height="80px" >
+  <img src="assets/html-1.svg" width="80px" height="80px">
+  <img src="assets/css-3.svg" width="80px" height="80px">
   <img src="assets/logo-javascript.svg" width="80px" height="80px">
   <img src="assets/python-5.svg" width="80px" height="80px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="80px" height="80px">
 </div>
 <br/>
 
