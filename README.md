@@ -3,15 +3,13 @@
 ### **I am**:
 - a non-binary person based in **Recife, Brasil!** 
 - graduating in Sistemas para Internet - UNICAP
-- studying web development 💻
-- trying to focus in frontend 
+- studying web development 💻 
 - in general a very curious person!
 
 
 ### Here are some technologies I'm a little familiar with:
 <br/>
 <div align="center">
-  <img src="https://img.shields.io/badge/-{html5}-{#E34F26}?logo={html5}&logoColor={white}&style={Flat}" alt="HTML  Badge"/>
   <img src="assets/html-1.svg" width="80px" height="80px">
   <img src="assets/css-3.svg" width="80px" height="80px">
   <img src="assets/logo-javascript.svg" width="80px" height="80px">
