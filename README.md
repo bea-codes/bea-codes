@@ -12,7 +12,7 @@
 <div align="center">
   <img src="assets/html-1.svg" width="80px" height="80px">
   <img src="assets/css-3.svg" width="80px" height="80px">
-  <img src="assets/logo-javascript.svg" width="80px" height="80px">
+  <img src="https://commons.wikimedia.org/wiki/Category:TypeScript#/media/File:Typescript.svg" width="80px" height="80px">
   <img src="assets/python-5.svg" width="80px" height="80px">
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-3628857-3029997.png" width="80px" height="80px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="92px" height="80px">
@@ -29,3 +29,4 @@
 
 
 
+  
