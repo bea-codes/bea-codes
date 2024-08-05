@@ -3,7 +3,7 @@
 ### About me:
 - I'm a back-end developer based in **Recife, Brasil!** 
 - Graduated in Sistemas para Internet - UNICAP, Brasil.
-- I' currently working with Node.js and micro services architecture. 
+- I'm currently working with Node.js and micro services architecture. 
 
 In my free time I am currently studying Go and learnign how to build custom ergonomic keyboards.
 
