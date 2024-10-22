@@ -1,4 +1,4 @@
-# Hey there! I'm Bea!👋
+# Hey there! I'm Dante!👋
 
 ### About me:
 - I'm a back-end developer based in **Recife, Brasil!** 
